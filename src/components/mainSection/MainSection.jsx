@@ -1,4 +1,4 @@
-import Banner from '../banner/banner';
+import Banner from '../banner/Banner';
 import CardSection from '../cardSection/CardSection';
 
 import styles from './MainSection.module.css';
