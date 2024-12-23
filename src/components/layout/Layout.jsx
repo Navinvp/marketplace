@@ -2,7 +2,7 @@ import { Outlet, useLocation } from 'react-router-dom';
 
 import { useGlobalContext } from '../../GlobalContext';
  
-import Header from "../header/header";
+import Header from "../header/Header";
 import Footer from "../footer/Footer";
 
 import styles from './Layout.module.css';
