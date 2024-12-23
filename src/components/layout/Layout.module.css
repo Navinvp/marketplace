@@ -1,0 +1,19 @@
+.container {
+  background-color: #e6e9f2;
+  height: 100vh;
+  width: 100%;
+}
+
+.overlayBg {
+  position: absolute;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  opacity: 0;
+}
+
+.fixPosition {
+  position: fixed;
+  width: 100%;
+}

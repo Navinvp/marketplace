@@ -1,0 +1,29 @@
+[
+    {
+        "name": "NightSky",
+        "image": "images/Collection-1.png",
+        "description": "Lorem ipsum dolor sit amet. Vel sapiente impedit non nulla amet nam quidem voluptate et tempora officia. In molestiae unde ut obcaecati dolorem rem reprehenderit sequi. Sit fugit aliquid ut blanditiis nisi sed cupiditate impedit id nulla repellendus est numquam quasi. Quo delectus atque aut voluptas incidunt ut facere voluptatem et earum perspiciatis!",
+        "artistImage": "images/artist-1.png",
+        "artistName": "Lea Jacquot",
+        "ntf": "120 NTF",
+        "priceRange": [0.12,0.18]
+    },
+    {
+        "name": "Future",
+        "image": "images/Collection-2.png",
+        "description": "Lorem ipsum dolor sit amet. Vel sapiente impedit non nulla amet nam quidem voluptate et tempora officia. In molestiae unde ut obcaecati dolorem rem reprehenderit sequi. Sit fugit aliquid ut blanditiis nisi sed cupiditate impedit id nulla repellendus est numquam quasi. Quo delectus atque aut voluptas incidunt ut facere voluptatem et earum perspiciatis!",
+        "artistImage": "images/artist-2.png",
+        "artistName": "Julien",
+        "ntf": "120 NTF",
+        "priceRange": [0.12,0.18]
+    },
+    {
+        "name": "Mother nature",
+        "image": "images/Collection-3.png",
+        "description": "Lorem ipsum dolor sit amet. Vel sapiente impedit non nulla amet nam quidem voluptate et tempora officia. In molestiae unde ut obcaecati dolorem rem reprehenderit sequi. Sit fugit aliquid ut blanditiis nisi sed cupiditate impedit id nulla repellendus est numquam quasi. Quo delectus atque aut voluptas incidunt ut facere voluptatem et earum perspiciatis!",
+        "artistImage": "images/artist-3.png",
+        "artistName": "Maria",
+        "ntf": "120 NTF",
+        "priceRange": [0.12,0.18]
+    }
+]

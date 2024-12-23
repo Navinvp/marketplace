@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Night is coming",
+        "image": "images/nft-1.png",
+        "description": "Lorem ipsum dolor sit amet. Vel sapiente impedit non nulla amet nam quidem voluptate et tempora officia. In molestiae unde ut obcaecati dolorem rem reprehenderit sequi. Sit fugit aliquid ut blanditiis nisi sed cupiditate impedit id nulla repellendus est numquam quasi. Quo delectus atque aut voluptas incidunt ut facere voluptatem et earum perspiciatis!",
+        "artistImage": "images/artist-1.png",
+        "artistName": "Lea Jacquot",
+        "ntf": "120 NTF",
+        "priceRange": [0.12,0.18]
+    },
+    {
+        "name": "With the stars",
+        "image": "images/BannerImg.jpg",
+        "description": "Lorem ipsum dolor sit amet. Vel sapiente impedit non nulla amet nam quidem voluptate et tempora officia. In molestiae unde ut obcaecati dolorem rem reprehenderit sequi. Sit fugit aliquid ut blanditiis nisi sed cupiditate impedit id nulla repellendus est numquam quasi. Quo delectus atque aut voluptas incidunt ut facere voluptatem et earum perspiciatis!",
+        "artistImage": "images/artist-2.png",
+        "artistName": "Julien",
+        "ntf": "120 NTF",
+        "priceRange": [0.12,0.18]
+    },
+    {
+        "name": "Summer",
+        "image": "images/nft-3.png",
+        "description": "Lorem ipsum dolor sit amet. Vel sapiente impedit non nulla amet nam quidem voluptate et tempora officia. In molestiae unde ut obcaecati dolorem rem reprehenderit sequi. Sit fugit aliquid ut blanditiis nisi sed cupiditate impedit id nulla repellendus est numquam quasi. Quo delectus atque aut voluptas incidunt ut facere voluptatem et earum perspiciatis!",
+        "artistImage": "images/artist-3.png",
+        "artistName": "Maria",
+        "ntf": "120 NTF",
+        "priceRange": [0.12,0.18]
+    },
+    {
+        "name": "Quiet",
+        "image": "images/nft-4.png",
+        "description": "Lorem ipsum dolor sit amet. Vel sapiente impedit non nulla amet nam quidem voluptate et tempora officia. In molestiae unde ut obcaecati dolorem rem reprehenderit sequi. Sit fugit aliquid ut blanditiis nisi sed cupiditate impedit id nulla repellendus est numquam quasi. Quo delectus atque aut voluptas incidunt ut facere voluptatem et earum perspiciatis!",
+        "artistImage": "images/artist-3.png",
+        "artistName": "Maria",
+        "ntf": "120 NTF",
+        "priceRange": [0.12,0.18]
+    },
+    {
+        "name": "Travel",
+        "image": "images/nft-5.png",
+        "description": "Lorem ipsum dolor sit amet. Vel sapiente impedit non nulla amet nam quidem voluptate et tempora officia. In molestiae unde ut obcaecati dolorem rem reprehenderit sequi. Sit fugit aliquid ut blanditiis nisi sed cupiditate impedit id nulla repellendus est numquam quasi. Quo delectus atque aut voluptas incidunt ut facere voluptatem et earum perspiciatis!",
+        "artistImage": "images/artist-3.png",
+        "artistName": "Maria",
+        "ntf": "120 NTF",
+        "priceRange": [0.12,0.18]
+    },
+    {
+        "name": "The rain",
+        "image": "images/nft-6.png",
+        "description": "Lorem ipsum dolor sit amet. Vel sapiente impedit non nulla amet nam quidem voluptate et tempora officia. In molestiae unde ut obcaecati dolorem rem reprehenderit sequi. Sit fugit aliquid ut blanditiis nisi sed cupiditate impedit id nulla repellendus est numquam quasi. Quo delectus atque aut voluptas incidunt ut facere voluptatem et earum perspiciatis!",
+        "artistImage": "images/artist-3.png",
+        "artistName": "Maria",
+        "ntf": "120 NTF",
+        "priceRange": [0.12,0.18]
+    }
+]

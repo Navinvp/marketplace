@@ -1,0 +1,172 @@
+.banner {
+  background-color: #e6e9f2;
+  border-radius: 30px;
+  padding: 32px 48px;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+
+.img {
+  width: 35%;
+  border-radius: 52px;
+  background-image: url("/images/BannerImg.jpg");
+  background-size: cover;
+}
+
+.details {
+  width: 50%;
+  height: 100%;
+  gap: 1rem;
+}
+
+.details,
+.name {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: space-around;
+}
+
+.collectionName {
+  font-size: 1.5rem;
+  color: #617587;
+}
+
+.nftName {
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 3rem;
+}
+
+.buttonGroup {
+  display: flex;
+  gap: 1rem;
+}
+
+.pill {
+  font-size: 0.75rem;
+  color: #23252b;
+  background-color: #fadfe4;
+  padding: 9px 35px;
+  border-radius: 49px;
+}
+
+.description {
+  font-size: 1rem;
+  font-weight: 400;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .banner {
+    flex-direction: column;
+    height: auto;
+    text-align: center;
+    padding: 24px;
+  }
+
+  .img {
+    width: 80%;
+    max-width: 500px;
+    margin-bottom: 1rem;
+  }
+
+  .details {
+    width: 100%;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .collectionName {
+    font-size: 1.2rem;
+  }
+
+  .nftName {
+    font-size: 3rem;
+    line-height: 3rem;
+  }
+
+  .description {
+    font-size: 0.9rem;
+  }
+
+  .pill {
+    font-size: 0.7rem;
+    padding: 8px 24px;
+  }
+
+  .buttonGroup {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .img {
+    width: 100%;
+    max-width: 400px;
+  }
+
+  .nftName {
+    font-size: 2.5rem;
+    line-height: 2.8rem;
+  }
+
+  .collectionName {
+    font-size: 1rem;
+  }
+
+  .pill {
+    font-size: 0.65rem;
+    padding: 6px 20px;
+  }
+
+  .description {
+    font-size: 0.85rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .banner {
+    padding: 16px;
+    text-align: left;
+  }
+
+  .img {
+    width: 100%;
+    height: 200px;
+    max-width: none;
+    border-radius: 20px;
+  }
+
+  .nftName {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+
+  .collectionName {
+    font-size: 0.9rem;
+  }
+
+  .description {
+    font-size: 0.8rem;
+  }
+
+  .pill {
+    font-size: 0.6rem;
+    padding: 5px 16px;
+  }
+
+  .buttonGroup {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

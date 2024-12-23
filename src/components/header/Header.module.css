@@ -1,0 +1,30 @@
+.headerSection {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 32px;
+}
+
+.home {
+  cursor: pointer;
+}
+
+.titleText {
+  font-weight: 800;
+  font-size: 32px;
+}
+
+.connectBtn {
+  padding: 12px 24px;
+  border-radius: 32px;
+  border: 2px solid #23252b;
+  background-color: white;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.dot {
+  display: inline-block;
+  height: 5px;
+  width: 5px;
+  background-color: #23252b;
+}

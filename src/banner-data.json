@@ -1,0 +1,32 @@
+{
+    "collection-home":[
+        {
+            "title": "With the stars",
+            "subtitle": "Night Sky Collection",
+            "description": "",
+            "artistImage": "images/artist-1.png",
+            "artistName": "Lea Jacquot"
+        }
+    ],
+    "collection1":{
+            "title": "Night Sky",
+            "subtitle": "Collection",
+            "description": "Lorem ipsum dolor sit amet. Vel sapiente impedit non nulla amet nam quidem voluptate et tempora officia. In molestiae unde ut obcaecati dolorem rem reprehenderit sequi. Sit fugit aliquid ut blanditiis nisi sed cupiditate impedit id nulla repellendus est numquam quasi. Quo delectus atque aut voluptas incidunt ut facere voluptatem et earum perspiciatis!",
+            "artistImage": "images/artist-1.png",
+            "artistName": "Lea Jacquot"
+    },
+    "collection2":{
+            "title": "Future",
+            "subtitle": "Collection",
+            "description": "Lorem ipsum dolor sit amet. Vel sapiente impedit non nulla amet nam quidem voluptate et tempora officia. In molestiae unde ut obcaecati dolorem rem reprehenderit sequi. Sit fugit aliquid ut blanditiis nisi sed cupiditate impedit id nulla repellendus est numquam quasi. Quo delectus atque aut voluptas incidunt ut facere voluptatem et earum perspiciatis!",
+            "artistImage": "images/artist-1.png",
+            "artistName": "Julien"
+    },
+    "collection3":{
+            "title": "Mother Nature",
+            "subtitle": "Collection",
+            "description": "Lorem ipsum dolor sit amet. Vel sapiente impedit non nulla amet nam quidem voluptate et tempora officia. In molestiae unde ut obcaecati dolorem rem reprehenderit sequi. Sit fugit aliquid ut blanditiis nisi sed cupiditate impedit id nulla repellendus est numquam quasi. Quo delectus atque aut voluptas incidunt ut facere voluptatem et earum perspiciatis!",
+            "artistImage": "images/artist-1.png",
+            "artistName": "Maria"
+    }
+}
